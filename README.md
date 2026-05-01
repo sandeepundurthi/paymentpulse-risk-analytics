@@ -180,26 +180,43 @@ PaymentPulse/
 
 
 ⚙️ How to Run This Project
+
 1️⃣ Clone Repository
+
 git clone https://github.com/yourusername/paymentpulse.git
+
 cd paymentpulse
+
 2️⃣ Install Dependencies
+
 pip install -r requirements.txt
 
 or manually:
 
 pip install pandas numpy scikit-learn xgboost streamlit plotly joblib
+
 3️⃣ Generate Dataset
+
 python src/generate_data.py
+
 4️⃣ Clean Data
+
 python src/clean_data.py
+
 5️⃣ Build SQL Database
+
 python src/build_database.py
+
 6️⃣ Run Risk Scoring
+
 python src/risk_scoring.py
+
 7️⃣ Train Fraud Model
+
 python src/train_model.py
+
 8️⃣ Launch Dashboard
+
 streamlit run dashboard/app.py
 
 🎯 Business Value
