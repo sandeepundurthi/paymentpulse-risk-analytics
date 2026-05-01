@@ -1,0 +1,4 @@
+channel,total_transactions,fraud_transactions,fraud_rate_pct,avg_transaction_amount
+Online,44782,2048,4.57,54.52
+Mobile App,20193,767,3.8,54.97
+In-Store,35025,1232,3.52,55.14

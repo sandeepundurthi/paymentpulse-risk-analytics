@@ -1,0 +1,26 @@
+merchant_id,merchant_category,total_transactions,total_payment_volume,avg_transaction_amount,failure_rate_pct,fraud_rate_pct,chargeback_rate_pct,merchant_risk_level
+MERCH00078,Restaurant,20,1386.51,69.33,10.0,20.0,15.0,High Risk
+MERCH00354,Restaurant,20,1121.07,56.05,15.0,20.0,10.0,High Risk
+MERCH00105,Restaurant,21,977.49,46.55,23.81,19.05,4.76,High Risk
+MERCH00422,Retail,21,948.61,45.17,9.52,19.05,0.0,High Risk
+MERCH00716,Retail,22,891.84,40.54,4.55,18.18,4.55,High Risk
+MERCH00303,Grocery,23,1203.68,52.33,4.35,17.39,8.7,High Risk
+MERCH00360,Retail,24,1059.44,44.14,4.17,16.67,0.0,High Risk
+MERCH00232,Retail,24,1110.0,46.25,12.5,16.67,0.0,High Risk
+MERCH00316,Restaurant,20,1130.43,56.52,5.0,15.0,15.0,High Risk
+MERCH00307,Grocery,20,1366.8,68.34,10.0,15.0,10.0,High Risk
+MERCH00623,Restaurant,20,1071.39,53.57,10.0,15.0,5.0,High Risk
+MERCH00469,Retail,20,1614.84,80.74,10.0,15.0,5.0,High Risk
+MERCH00385,Retail,20,1012.12,50.61,5.0,15.0,5.0,High Risk
+MERCH00446,Restaurant,20,870.09,43.5,15.0,15.0,0.0,High Risk
+MERCH00445,Restaurant,20,1110.82,55.54,0.0,15.0,0.0,High Risk
+MERCH00165,Retail,27,1240.84,45.96,7.41,14.81,3.7,High Risk
+MERCH00654,Grocery,21,794.36,37.83,9.52,14.29,14.29,High Risk
+MERCH00696,Grocery,21,1240.89,59.09,4.76,14.29,4.76,High Risk
+MERCH00513,Retail,21,973.1,46.34,0.0,14.29,4.76,High Risk
+MERCH00469,Restaurant,21,1247.12,59.39,4.76,14.29,4.76,High Risk
+MERCH00226,Retail,21,1355.61,64.55,9.52,14.29,4.76,High Risk
+MERCH00313,Restaurant,21,844.82,40.23,4.76,14.29,0.0,High Risk
+MERCH00580,Restaurant,22,1159.31,52.7,0.0,13.64,4.55,High Risk
+MERCH00409,Restaurant,22,998.83,45.4,13.64,13.64,4.55,High Risk
+MERCH00159,Restaurant,22,1552.59,70.57,4.55,13.64,4.55,High Risk

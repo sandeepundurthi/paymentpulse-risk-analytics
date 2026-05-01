@@ -1,0 +1,2 @@
+total_transactions,total_payment_volume,approved_transactions,failed_transactions,fraud_transactions,chargeback_transactions,approval_rate_pct,failure_rate_pct,fraud_rate_pct,chargeback_rate_pct
+100000,5482822.9,92310,7690,4047,1932,92.31,7.69,4.05,1.93

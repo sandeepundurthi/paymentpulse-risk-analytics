@@ -1,0 +1,9 @@
+failure_reason,transaction_count,pct_of_failed_transactions
+Suspected Fraud,1033,13.43
+Merchant Decline,1017,13.22
+Card Limit Exceeded,1014,13.19
+Invalid Account,951,12.37
+Network Error,942,12.25
+Insufficient Funds,936,12.17
+Processor Timeout,920,11.96
+Expired Card,877,11.4

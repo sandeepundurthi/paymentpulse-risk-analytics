@@ -1,0 +1,15 @@
+feature,type
+transaction_amount,numeric
+processor_response_ms,numeric
+hour,numeric
+month,numeric
+is_weekend,numeric
+high_value_txn,numeric
+slow_response,numeric
+risk_score,numeric
+payment_method,categorical
+channel,categorical
+device_type,categorical
+merchant_category,categorical
+customer_location,categorical
+transaction_status,categorical

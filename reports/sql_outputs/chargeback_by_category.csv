@@ -1,0 +1,12 @@
+merchant_category,total_transactions,chargebacks,chargeback_rate_pct,total_payment_volume
+Other,250,9,3.6,13132.57
+Electronics,7868,180,2.29,421806.16
+Financial Services,5958,130,2.18,332313.31
+Travel,7965,166,2.08,442693.05
+Fuel,10031,199,1.98,543464.09
+Restaurant,13937,275,1.97,774174.43
+Entertainment,6977,134,1.92,382089.6
+Healthcare,7952,148,1.86,441615.33
+Grocery,14054,257,1.83,768961.19
+Retail,18037,315,1.75,979190.95
+Subscription,6971,119,1.71,383382.22

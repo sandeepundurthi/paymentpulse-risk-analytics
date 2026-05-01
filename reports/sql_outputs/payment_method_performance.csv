@@ -1,0 +1,5 @@
+payment_method,total_transactions,total_payment_volume,avg_transaction_amount,failure_rate_pct,fraud_rate_pct,chargeback_rate_pct
+ACH,11991,660160.36,55.05,7.98,4.04,2.05
+Credit Card,42022,2307122.39,54.9,7.85,4.05,1.89
+Digital Wallet,14887,807144.55,54.22,7.6,3.9,1.8
+Debit Card,31100,1708395.6,54.93,7.41,4.12,2.01
